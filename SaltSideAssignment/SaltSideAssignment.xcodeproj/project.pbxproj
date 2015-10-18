@@ -454,13 +454,13 @@
 			baseConfigurationReference = 3F5FD36FB8A995A7AB77B14C /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Yallappa Kuntennavar (8W987Y68GW)";
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = SaltSideAssignment/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yallappa.saltsideassignmentalamofire;
 				PRODUCT_NAME = SaltSideAssignmentAlamofire;
-				PROVISIONING_PROFILE = "de77dfa7-a070-44d7-99b9-c3fc5353d71e";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -469,13 +469,13 @@
 			baseConfigurationReference = 00577F11ABE6FC4A9769433D /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Yallappa Kuntennavar (8W987Y68GW)";
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = SaltSideAssignment/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yallappa.saltsideassignmentalamofire;
 				PRODUCT_NAME = SaltSideAssignmentAlamofire;
-				PROVISIONING_PROFILE = "de77dfa7-a070-44d7-99b9-c3fc5353d71e";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
